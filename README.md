@@ -1,1 +1,3 @@
 # Hospital-Management-System
+The Hospital Management System is a comprehensive software solution designed to effectively manage and optimize the operations of a hospital.
+Within a medical institution, various departments exist, each staffed by specialized doctors who possess expertise in specific areas. The system will give opportunities for patients to request appointments based on their specific medical condition, within the appropriate department and with a designated doctor. Newly qualified physicians have the opportunity to be assigned to a certain department based on their individual attributes. Additionally, the system has the capability to remove doctors and monitor all other operational activities.
